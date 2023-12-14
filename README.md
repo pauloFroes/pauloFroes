@@ -12,90 +12,42 @@
 ### Ciência de Dados
 
 <div style="display:flex; gap: 4px; flex-wrap: wrap">
-    <div style="display:inline-block; width: fit-content">
-        <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="tensor-flow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="scikit-learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="sql-server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="my-sql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="mongo-db" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="power-bi" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
-        <img alt="tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
-    </div>
+    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img alt="numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
+    <img alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white"/>
+    <img alt="tensor-flow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img alt="sql-server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
+    <img alt="my-sql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    <img alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white"/>
+    <img alt="mongo-db" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <img alt="power-bi" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+    <img alt="tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </div>
 <br>
 
 ### FrontEnd
 
 <div style="display:flex; gap: 4px; flex-wrap: wrap">
-    <div style="display:inline-block; width: fit-content">
         <img alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="tailwind" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-    </div>
 </div>
 <br>
 
 ### BackEnd
 
 <div style="display:flex; gap: 4px; flex-wrap: wrap">
-    <div style="display:inline-block; width: fit-content">
         <img alt="node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="typescript" src="https://img.shields.io/badge/tsnode-3178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="socket-io" src="https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-    </div>
-    <div style="display:inline-block; width: fit-content">
         <img alt="jwt" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/>
-    </div>
 </div>
 <br>
 <br>
