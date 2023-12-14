@@ -7,7 +7,7 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloFroes&show_icons=true&theme=dracula) -->
 <br>
 
-# Tecnologias
+## Tecnologias
 
 ### Ciência de Dados
 
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-# O que estou fazendo? 💼🧑‍💻
+## O que estou fazendo? 💼🧑‍💻
 
 <p>
     <b>🔍📊 Consultor Sênior</b>, tendo atuado em dezenas de empresas implementando sistemas de Business Intelligence em mais de 12 segmentos diferentes.
