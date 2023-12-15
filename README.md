@@ -6,6 +6,20 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloFroes&show_icons=true&theme=dracula) -->
 <br>
+<br>
+
+## O que estou fazendo? 💼🧑‍💻
+
+<p>
+    <b>🔍📊 Consultor Sênior</b>, tendo atuado em dezenas de empresas implementando sistemas de Business Intelligence em mais de 12 segmentos diferentes.
+</p>
+<p>
+    <b>👨‍🏫💻 Professor da Eduliv</b>, ministrando treinamentos em tecnologias de Ciência de Dados, Desenvolvimento FrontEnd e BackEnd. Já formei mais de 10 mil alunos.❤️
+</p>
+<p>
+    <b>👨‍💻🌐 Desenvolvedor Full Stack na Eduliv</b>, no frontEnd trabalhando em projetos que facilitem a usabilidade dos alunos na plataforma de ensino. No backEnd, cuido de segurança, performance e escalabilidade do portal
+</p>
+
 
 ## Tecnologias
 
@@ -51,15 +65,3 @@
 </div>
 <br>
 <br>
-
-## O que estou fazendo? 💼🧑‍💻
-
-<p>
-    <b>🔍📊 Consultor Sênior</b>, tendo atuado em dezenas de empresas implementando sistemas de Business Intelligence em mais de 12 segmentos diferentes.
-</p>
-<p>
-    <b>👨‍🏫💻 Professor da Eduliv</b>, ministrando treinamentos em tecnologias de Ciência de Dados, Desenvolvimento FrontEnd e BackEnd. Já formei mais de 10 mil alunos.❤️
-</p>
-<p>
-    <b>👨‍💻🌐 Desenvolvedor Full Stack na Eduliv</b>, no frontEnd trabalhando em projetos que facilitem a usabilidade dos alunos na plataforma de ensino. No backEnd, cuido de segurança, performance e escalabilidade do portal
-</p>
