@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-froes/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paulofroes6217/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eupaulofroes/)
-<br>
-<br>
+<br/>
+<br/>
 
 <p>
     <b>🔍📊 Consultor Sênior</b>, tendo atuado em dezenas de empresas implementando sistemas de Business Intelligence em mais de 12 segmentos diferentes.
