@@ -4,11 +4,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paulofroes6217/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eupaulofroes/)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloFroes&show_icons=true&theme=dracula) -->
-<br>
-
-## O que estou fazendo? 💼🧑‍💻
-
 <p>
     <b>🔍📊 Consultor Sênior</b>, tendo atuado em dezenas de empresas implementando sistemas de Business Intelligence em mais de 12 segmentos diferentes.
 </p>
@@ -18,6 +13,9 @@
 <p>
     <b>👨‍💻🌐 Desenvolvedor Full Stack na Eduliv</b>, no frontEnd trabalhando em projetos que facilitem a usabilidade dos alunos na plataforma de ensino. No backEnd, cuido de segurança, performance e escalabilidade do portal
 </p>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloFroes&show_icons=true&theme=dracula) -->
+<br>
 
 ## Tecnologias
 
