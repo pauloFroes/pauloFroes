@@ -16,9 +16,6 @@
     <b>👨‍💻🌐 Desenvolvedor Full Stack na Eduliv</b>, no frontEnd trabalhando em projetos que facilitem a usabilidade dos alunos na plataforma de ensino. No backEnd, cuido de segurança, performance e escalabilidade do portal
 </p>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloFroes&show_icons=true&theme=dracula) -->
-<br>
-
 ## Tecnologias que me movem
 
 ### Ciência de Dados
