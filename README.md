@@ -16,6 +16,7 @@
     <b>👨‍💻🌐 Desenvolvedor Full Stack na Eduliv</b>, no frontEnd trabalhando em projetos que facilitem a usabilidade dos alunos na plataforma de ensino. No backEnd, cuido de segurança, performance e escalabilidade do portal
 </p>
 <br/>
+
 ## Minha Caixa de Ferramentas 👇
 
 ### Ciência de Dados
