@@ -1,4 +1,4 @@
-Sou o Paulo Fróes e espero que se sinta bem aqui no meu GitHub. 👋
+<b>Sou o Paulo Fróes e espero que se sinta bem aqui no meu GitHub.</b> 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-froes/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paulofroes6217/)
