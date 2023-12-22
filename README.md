@@ -21,7 +21,7 @@
 
 ### Ciência de Dados
 
-<div style="display:flex; gap: 4px; flex-wrap: wrap">
+<div style="display:flex; gap: 10px; flex-wrap: wrap">
     <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img alt="numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
